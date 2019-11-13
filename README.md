@@ -6,3 +6,4 @@ Doing some cool shit with pi
 
 [31.4 Trillion digits of pi](https://cloud.google.com/blog/products/compute/calculating-31-4-trillion-digits-of-archimedes-constant-on-google-cloud)
 
+[pi query](https://www.angio.net/pi/piquery.html)
